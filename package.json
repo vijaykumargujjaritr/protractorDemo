@@ -1,0 +1,14 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "this is for protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijay",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}
